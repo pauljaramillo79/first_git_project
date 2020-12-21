@@ -1,2 +1,1 @@
-This is my first file.
-Now a second change.
+This is my first file I added to my project.
